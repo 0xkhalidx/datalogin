@@ -29,7 +29,7 @@ This project creates a web-based database management dashboard that allows users
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/0xkhalidx/datalogin.git)
 
 ## Description 📝
 
