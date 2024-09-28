@@ -1,4 +1,4 @@
-# Database Manager Dashboard 🌐
+# Database Manager Dashboard 🌐 [php]
 
 This project creates a web-based database management dashboard that allows users to interact with a MySQL database easily.
 
